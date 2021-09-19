@@ -14,4 +14,4 @@
 8. Keeping your conclusions in mind, compare the sales of the same games on other platforms.
 9. Take a look at the general distribution of games by genre. What can we say about the most profitable genres? Can you generalize about genres with high and low sales?
 
-###File contains Jupiter Notebook. Language Python.
+### File contains Jupiter Notebook. Language Python.
